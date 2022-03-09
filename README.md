@@ -4,7 +4,7 @@
 
 Did you know you can get free rigged models, poses and animations on [Adobe Mixamo](https://www.mixamo.com/)? And that you can then import them easily in Unity to quickly setup a basic player character with a few movements? Let's discover more in this video/text tutorial: "Animate a Unity character thanks to Mixamo (Unity/C# tutorial)" :)
 
-You can read it in text format [on Medium](hhttps://mina-pecheux.medium.com/how-to-animate-and-move-a-simple-player-with-mixamo-and-unity-c-721470b54551), or watch it [on Youtube](https://youtu.be/8Pk7FI629O8).
+You can read it in text format [on Medium](https://mina-pecheux.medium.com/how-to-animate-and-move-a-simple-player-with-mixamo-and-unity-c-721470b54551), or watch it [on Youtube](https://youtu.be/8Pk7FI629O8).
 
 ![thumbnail](imgs/yt_thumbnail.png)
 
